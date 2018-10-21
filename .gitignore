@@ -1,0 +1,7 @@
+
+\.idea/
+.vs/
+\.vscode/
+\.well-known/
+cgi-bin/
+.DS_Store
