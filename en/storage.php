@@ -5,10 +5,13 @@
   <section class="container" style="margin-top: 80px;">
     <div class="row">
       <div class="col-md-6">
-        <h2 style="color: #f68b1e;">LM MANUTENTIONS HAVE THE SOLUTION STORAGE FOR YOU!</h2>
+        <h2 style="color: #f68b1e;">LM MANUTENTIONS HAVE THE <strong>STORAGE</strong> SOLUTION FOR YOU!</h2>
         <hr class="sep" />
         <p class="emphase">LM Manutentions helps companies to choose and install the industrial storage system, efficient and safe, that will adapt to their situation, location and to products or materials to be stored.</p>
         <p>LM Manutentions serve a wide variety of businesses and industries with recognized partners. We offer a full range of industrial shelving, a complete engineering and computer service as well as a professional installation and maintenance with a competent team.</p>
+        &nbsp; <br> &nbsp; <br> &nbsp; <br> <a class="BlocOrangeButton pull-left" href="./request-a-quote">Request a <br><strong>quote</strong> </a>
+        <div class="BlocOrangeButton pull-right">Information<br><strong>450-226-8777</strong></div>
+        <hr class="sep">
       </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">

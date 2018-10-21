@@ -9,9 +9,10 @@
         <hr class="sep">
         <p class="emphase">LM Manutentions aide les entreprises à concevoir et à installer le système d’entreposage industriel efficace et sécuritaire adapté à leur emplacement ainsi qu’aux produits ou matériaux à entreposer.</p>
         <p>Nous desservons une grande variété d'entreprises et d'industries et avec des partenaires reconnus, nous vous offrons une gamme complète d’étagères industrielles, un service complet d'ingénierie et d'informatique ainsi qu'une équipe d'installation et de maintenance compétente et professionnelle.</p>
-         &nbsp; <br> &nbsp; <br> &nbsp; <br> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br><strong>soumission</strong> </a>
+         &nbsp; <br> &nbsp; <br> &nbsp; <br> <a class="BlocOrangeButton pull-left" href="./demander-une-soumission">Demander une<br><strong>soumission</strong> </a>
         <div class="BlocOrangeButton pull-right">Information<br><strong>450-226-8777</strong></div>
-        <hr class="sep"></div>
+        <hr class="sep">
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/entreposage/push-back1.jpg" alt="" /></div>

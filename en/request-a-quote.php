@@ -48,9 +48,9 @@
 
           <div class="form-group">
             <p>I prefer to be contacted by :</p>
-            <label for="prefer-courriel" class="control-label">email</label>
+            <label for="prefer-courriel" class="control-label">Email</label>
             <input type="radio" name="preference" class="form-control" value="courriel" id="prefer-courriel" checked>
-            <label for="prefer-phone" class="control-label">phone</label>
+            <label for="prefer-phone" class="control-label">Phone</label>
             <input type="radio" name="preference" class="form-control" value="phone" id="prefer-phone">
           </div>
           <div class="row">
