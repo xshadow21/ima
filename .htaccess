@@ -1,0 +1,158 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+# Dont apply any rules to this folder
+#RewriteRule ^php/ - [L]
+
+# Redirect root domain to fr
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^$ /fr/ [L]
+
+# Redirect domain logic
+RewriteCond %{HTTP_HOST} ^lm-convoyeurs.ca [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.lm-convoyeurs.ca [NC,OR]
+RewriteCond %{HTTP_HOST} ^lm-conveyors.ca [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.lm-conveyors.ca [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ http://dev.lmmanutentions.com/$1 [L,R=301,NC]
+#RewriteCond %{HTTP_HOST} ^lm\-conveyors\.ca$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.lm\-conveyors\.ca$
+#RewriteRule ^/?$ "http\:\/\/www\.dev.lmmanutentions\.com\/" [R=301,L]
+
+#Extension less ack
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ $1.php
+
+#Hide extension
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+#RewriteRule ^ %1 [R,L,NC]
+
+#manual redirect
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ fr/index.php [NC,L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^fr/?$ fr/index.php [NC,L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^en/?$ en/index.php [NC,L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^fr/blogue/.*$ fr/blogue.php [L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^fr/blogue.*$ fr/blogue.php [L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^en/blog/.*$ en/blog.php [L]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^en/blog.*$ en/blog.php [L]
+
+# Manual redirection
+Redirect 301 /fr/accueil.htm /fr/
+Redirect 301 /fr/alimentation-boissons.htm /fr/convoyeurs-agroalimentaire 
+Redirect 301 /fr/applications-speciales /fr/
+Redirect 301 /fr/applications-speciales/convoyeurs-chaine /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/convoyeurs-courroie-acier-wire-mesh /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/convoyeurs-plaques-acier-slat /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/convoyeurs-quench-feed /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/convoyeurs-refroidissement-sechage /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/residus-solides-solid-waste /fr/convoyeurs-mines-et-carrieres 
+Redirect 301 /fr/applications-speciales/tables-billes-transfert /fr/convoyeurs 
+Redirect 301 /fr/applications-speciales/tables-tournantes-motorisees /fr/convoyeurs 
+Redirect 301 /fr/assemblage.htm /fr/
+Redirect 301 /fr/automobile.htm /fr/
+Redirect 301 /fr/colis.htm /fr/
+Redirect 301 /fr/convoyeur-rouleaux /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeur-rouleaux-gravite /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeur-rouleaux-zero-accumulation-intelliveyor /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeurs-accumulation-zpa /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeurs-entrainement-par-chaine /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeurs-entrainement-par-courroie /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/convoyeurs-rouleaux-entraines-par-arbre-transmission /fr/convoyeurs 
+Redirect 301 /fr/convoyeur-rouleaux/courbes-rouleaux /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeur-courroie-pvc /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeur-courroie-sur-rouleaux-belt-on-roller /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeurs-courroie-caoutchouc /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeurs-courroie-modulaire-pallet-pro /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeurs-entraines-par-courroie-bdlr /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeurs-inter-plancher /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/convoyeurs-pieces /fr/convoyeurs 
+Redirect 301 /fr/convoyeurs-courroie/courbes-courroie /fr/convoyeurs 
+Redirect 301 /fr/dairy.htm /fr/convoyeurs-agroalimentaire 
+Redirect 301 /fr/easy-conveyor /fr/convoyeurs 
+Redirect 301 /fr/easy-conveyor/convoyeur-courroie-modulaire /fr/convoyeurs 
+Redirect 301 /fr/easy-conveyor/convoyeur-entrainement-par-courroie-plate /fr/convoyeurs 
+Redirect 301 /fr/easy-conveyor/convoyeurs-courroie /fr/convoyeurs 
+Redirect 301 /fr/easy-conveyor/convoyeurs-rouleaux-gravite /fr/convoyeurs 
+Redirect 301 /fr/easy-conveyor/convoyeur-type-table-top /fr/convoyeurs 
+Redirect 301 /fr/emballage.htm /fr/emballage 
+Redirect 301 /fr/entreposage.htm /fr/entreposage 
+Redirect 301 /fr/entreposage-racking /fr/entreposage 
+Redirect 301 /fr/entreposage-racking/etageres-palettes /fr/entreposage 
+Redirect 301 /fr/entreposage-racking/mezzanines /fr/entreposage-mezzannines 
+Redirect 301 /fr/entreposage-racking/stockage-drive-in /fr/entreposage 
+Redirect 301 /fr/entreposage-racking/systeme-entreposage-cartons-carton-flow /fr/entreposage 
+Redirect 301 /fr/entreposage-racking/systeme-entreposage-fifo /fr/entreposage-rayonnage-dynamique-fifo 
+Redirect 301 /fr/entreposage-racking/systeme-entreposage-filo-push-back /fr/entreposage-entreposage-dynamique-filo 
+Redirect 301 /fr/estampage.htm /fr/emballage-etiquettage 
+Redirect 301 /fr/fonderie.htm /fr/
+Redirect 301 /fr/manutention.htm /fr/
+Redirect 301 /fr/manutention-en-vrac.htm /fr/
+Redirect 301 /fr/mines-et-carriere /fr/convoyeurs-mines-et-carrieres 
+Redirect 301 /fr/mines-et-carriere/convoyeur-de-type-rouleaux-support-idler /fr/convoyeurs 
+Redirect 301 /fr/mines-et-carriere/convoyeur-vis /fr/convoyeurs-mines-et-carrieres 
+Redirect 301 /fr/mines-et-carriere/pieces-et-accessoires /fr/convoyeurs-mines-et-carrieres 
+Redirect 301 /fr/nos-clients.htm /fr/clients 
+Redirect 301 /fr/nos-realisations.htm /fr/entreposage-racking/systemes-en-porte-a-faux
+Redirect 301 /fr/pate-papier.htm /fr/
+Redirect 301 /fr/pieces-de-remplacement-accessoires /fr/
+Redirect 301 /fr/pieces-de-remplacement-accessoires/billes-transfert	/fr/convoyeurs 
+Redirect 301 /fr/pieces-de-remplacement-accessoires/dessins-ingenierie /fr/
+Redirect 301 /fr/pieces-de-remplacement-accessoires/poulie /fr/
+Redirect 301 /fr/pieces-de-remplacement-accessoires/poulies-motorisees /fr/convoyeurs 
+Redirect 301 /fr/pieces-de-remplacement-accessoires/roues-multidirectionnelles /fr/convoyeurs 
+Redirect 301 /fr/pieces-de-remplacement-accessoires/rouleaux-convoyeurs /fr/convoyeurs 
+Redirect 301 /fr/pieces-de-remplacement-accessoires/supports /fr/
+Redirect 301 /fr/plastiques.htm /fr/
+Redirect 301 /fr/production.htm /fr/
+Redirect 301 /fr/productscategories.html /fr/
+Redirect 301 /fr/propos.htm /fr/a-propos-de-lm-manutentions 
+Redirect 301 /fr/recyclage.htm /fr/convoyeurs-recyclage 
+Redirect 301 /fr/recyclages /fr/convoyeurs-recyclage 
+Redirect 301 /fr/recyclages/alimentateurs-pieces-pro-feed /fr/convoyeurs-recyclage 
+Redirect 301 /fr/recyclages/convoyeur-courroie-acier-hsb /fr/convoyeurs 
+Redirect 301 /fr/recyclages/convoyeur-courroie-ondule /fr/convoyeurs 
+Redirect 301 /fr/recyclages/convoyeur-type-tirage-chaine-drag-chain /fr/convoyeurs 
+Redirect 301 /fr/s.html?s=237549281 /fr/
+Redirect 301 /fr/scrap-handling.htm /fr/convoyeurs-recyclage 
+Redirect 301 /fr/sitemap.html /fr/sitemap 
+Redirect 301 /fr/textile.htm /fr/
+Redirect 301 /fr/usinage.htm /fr/
+Redirect 301 /fr/vente-au-detail.htm /fr/
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php5_module>
+   php_value date.timezone ""America/Chicago""
+   php_value default_charset "utf-8"
+   php_flag asp_tags Off
+   php_flag display_errors Off
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 128M
+   php_value session.gc_maxlifetime 1440
+   php_value upload_max_filesize 32M
+</IfModule>
+# END cPanel-generated php ini directives, do not edit

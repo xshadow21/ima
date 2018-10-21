@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>New website - Astral Internet</title>
+	<meta name="robots" content="noindex,follow">
+	<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='http://static.astralinternet.com/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='main-stylesheet-css' href='http://static.astralinternet.com/css/foundation.css' type='text/css' media='all' />
+</head>
+<body class="offcanvas">
+	<header class="main-header">
+		<div class="row collapse top-menu">
+			<div class="small-6 medium-5 large-4 column align-middle">
+				<div class="logo">
+					<a href="https://www.astralinternet.com/en"><img alt="Astral Internet" src="http://static.astralinternet.com/images/logo-astral.png"></a>
+				</div>
+			</div>
+			<div class="column small-5 medium-6 large-8">
+				<ul class="menu simple align-right">
+					<li>
+						<a href="https://www.astralinternet.com/en/contact-astral-internet">Contact us</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</header>
+	<section class="container ">
+		<div class="row ">
+			<div class="small-12 large-8 columns " role="main "><br/><br/><br/>
+				<h2 class="entry-title ">Prochainement</h2>
+				<p class="bottom ">Un nouveau site Web sera bientôt disponible. Veuillez revenir plus tard.</p>
+				<br/><br/>
+				<h3 class="entry-title ">Coming soon</h3>
+				<p class="bottom ">A new website will be online soon. Please check back later.</p>
+			</div>
+		</div>
+	</section>
+</body>
+</html>

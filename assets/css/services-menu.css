@@ -1,0 +1,95 @@
+.menu-services { text-align: center; padding: 60px 0 0; }
+.menu-services div div {
+    height: 200px;
+    display: table-cell;
+    width: 600px;
+    max-width: 100%;
+    min-width: 100%;
+    vertical-align: middle;
+    position: relative;
+    z-index: -2;
+    background-size: cover;
+    background-position: center center;
+}
+.menu-services div a {
+    display: block;
+    width: 100%;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    z-index: 1;
+    line-height: 1.2em;
+}
+.menu-services .c-layer {
+    background: #d0620a;
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    z-index: -1;
+    height: 200px;
+}
+.menu-services div:hover .c-layer {
+    opacity: 0.8;
+}
+
+.menu-services .agroalimentaire {
+    background: url('/images/servicesmenu/conveyers/agroalimentaire.jpg');
+}
+.menu-services .embouteillage {
+    background: url('/images/servicesmenu/conveyers/embouteillage.jpg');
+}
+.menu-services .emballage {
+    background: url('/images/servicesmenu/conveyers/emballage.jpg');
+}
+.menu-services .mines {
+    background: url('/images/servicesmenu/conveyers/mine-et-carrieres.jpg');
+}
+.menu-services .recyclage {
+    background: url('/images/servicesmenu/conveyers/recyclage.jpg');
+}
+.menu-services .pharmaceutique {
+    background: url('/images/servicesmenu/conveyers/pharmaceutique.jpg');
+}
+
+/* emballage */
+.menu-services .formeuse {
+    background: url('/images/servicesmenu/emballage/montage-boites.jpg');
+}
+.menu-services .cartonneuse {
+    background: url('/images/servicesmenu/emballage/scellage-boites.jpg');
+}
+.menu-services .etiquettage {
+    background: url('/images/servicesmenu/emballage/etiquetage.jpg');
+}
+.menu-services .imprimantes {
+    background: url('/images/servicesmenu/emballage/Imprimante-jet-encre-industriel.jpg');
+}
+
+/* Entreposage */
+
+.menu-services .paletiers-statiques {
+    background: url('/images/servicesmenu/entreposage/palettier-statique.jpg');
+}
+.menu-services .paletiers-porte-a-faux {
+    background: url('/images/servicesmenu/entreposage/palettier-porte-faux.jpg');
+}
+.menu-services .paletiers-a-accumulation {
+    background: url('/images/servicesmenu/entreposage/palettier-accumulation-statique.jpg');
+}
+.menu-services .rayonnage-carton-flow {
+    background: url('/images/servicesmenu/entreposage/etagere-dynamique-carton-flow.jpg');
+}
+.menu-services .rayonnage-dynamique-fifo {
+    background: url('/images/servicesmenu/entreposage/rayonnage-dynamique-fifo.jpg');
+}
+.menu-services .entreposage-dynamique-filo {
+    background: url('/images/servicesmenu/entreposage/etagere-dynamique-palette-recul-filo.jpg');
+}
+.menu-services .mezzannines {
+    background: url('/images/servicesmenu/entreposage/mezzanine.jpg');
+}
