@@ -437,7 +437,7 @@
       <a href="https://ca.linkedin.com/in/caroline-lono-71336710a"  target="_blank" class="social fa fa-linkedin pull-right"></a>
       <a href="https://www.facebook.com/lmmanutentions" target="_blank" class="social fa fa-facebook pull-right"></a>
 
-      <a href="/en/blog" class="pull-right" style="margin-top: 6px; margin-right: 15px;">BLOG</a>
+      <a href="/en/blogs" class="pull-right" style="margin-top: 6px; margin-right: 15px;">BLOG</a>
 
       <div class="pull-right" style="margin-right:10px; padding-top:7px; color:hsla(0,0%,70%,1.00); font-size:16px">1-450-226-8777</div>
 

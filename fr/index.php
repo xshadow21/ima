@@ -150,7 +150,7 @@ Purolator</span>
 									<div class="ts">
 										<p>LM Manutentions vous invite à venir rencontrer son équipe de professionnels au kiosque 1601 du PACKEX Montréal 2016,. L’événement, qui se tiendra le 30 novembre et le 1er décembre 2016, est l’exposition la plus importante pour l’industrie de l'emballage, la manutention et la fabrication évoluée au Québec.</p><p><strong>Parlez-nous de vos projets !</strong></p><p>Profitez de cette occasion pour découvrir nos produits et services et discuter de ...                                                            </div>
 									<span style="color: hsla(0,0%,100%,1.00)">2016-11-07</span>
-									<a href="/fr/blogue/packex-montreal-2016" target="_parent"  style="text-transform:uppercase; color:#e0be81">
+									<a href="/fr/blog/blogRenderer?id=packex-montreal-2016.html" target="_parent"  style="text-transform:uppercase; color:#e0be81">
 										Lire la suite &#8250;&#8250;
 									</a>
 
