@@ -61,7 +61,7 @@
                         </p>
                         <br>
                         <div class="text-center">
-                            <a href="/fr/demander-une-soumission.php"><button class="btn new-btn new-btn-dark text-left"> <div style="float:right;"><i class="fa fa-chevron-right"></i></div><div style="float:right;">DEMANDER UNE<br>SOUMISSION</div></button></a>
+                            <a href="/fr/demander-une-soumission"><button class="btn new-btn new-btn-dark text-left"> <div style="float:right;"><i class="fa fa-chevron-right"></i></div><div style="float:right;">DEMANDER UNE<br>SOUMISSION</div></button></a>
                         </div>
                     </div>
                     <!-- /FOOTER LATEST POSTS -->

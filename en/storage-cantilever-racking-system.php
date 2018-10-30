@@ -12,9 +12,11 @@
         <p>The shelves of a cantilever system are robust made entirely with solid steel. Versatile and easily adjustable to suit your immediate and future needs, you can install them against a wall or in an island, on one side, or both sides, now or later.</p>
         <p>Several models are available and they can be designed and installed to support volumes, quantities and heavy loads. We guarantee the structural reliability and security of our racking systems.</p>
         <p> </p>
-        <br />   <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+        <br />   <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/entreposage/Porte-a-faux.jpg" alt="" /></div>

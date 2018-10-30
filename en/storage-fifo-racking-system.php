@@ -14,8 +14,10 @@
         <p>With a very strong structure, this system is solid and highly resistant to abuse and can accommodate heavy loads. It is suitable for companies that have significant gathering activities and is particularly useful for storing perishables goods in the distribution centers for food, soft drinks or alcohol, confectionery or pharmaceutical products.</p>
         <p>LM Manutentions offers dynamic pallet racking FIFO adaptable to your needs. Our units are available in single or double bays, multi-level, and can accommodate a large number of pallets deep.</p>
         <p> </p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+        <br/>
+				<hr class="sep" />
       </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">

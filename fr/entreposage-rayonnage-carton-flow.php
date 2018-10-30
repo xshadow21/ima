@@ -18,9 +18,11 @@
 				<p>Le système dentreposage et de rayonnage Carton Flow répond bien aux besoins des entreprises dans les domaines suivants : embouteillage, boissons douces et alcoolisées, distribution, confiseries, papeterie, imprimerie, transport, etc.</p>
 				<p>Laissez-nous vous présenter comment le système dentreposage et de rayonnage Carton Flow peut améliorer le stockage et la gestion de vos marchandises et permettre des économies de temps et dargent appréciables.</p>
 				<h2 style="color: #f68b1e;"> </h2>
-				<a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				<a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />  
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/entreposage/cartonflow1.jpg" alt="" /></div>

@@ -55,10 +55,11 @@
 					<li>Courbes &agrave; courroie</li>
 					<li>Courbes &agrave; rouleaux</li>
 				</ul>
-				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
 				<hr class="sep" /><strong>Voir les autres produits <em>Convoyeurs</em>:</strong><br />
-				<hr class="sep" /></div>
+				<br/>
+				<hr class="sep" />
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/convoyeurs/agro4.jpg" alt="" /></div>

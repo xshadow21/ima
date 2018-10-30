@@ -25,9 +25,10 @@
                     <p>Notre équipe possède une expertise reconnue dans le domaine de la robotisation industrielle, de plus, nos infrastructures permettent de concevoir des équipements spécifiques en fonction des besoins de votre entreprise et de votre secteur d’activité. </p>
                     <p>N’hésitez pas à contacter nos experts qui se feront un plaisir de vous répondre et de vous guider dans votre choix de système de robotisation.
                         De plus, vous pouvez profiter d’une estimation gratuite en nous contactant par téléphone <a href="tel:1-450-226-8777">1-450-226-8777</a> ou en demandant une soumission ci-dessous.</p>&nbsp;
-                    <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+                    <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
                     <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-
+                    <br/>
+				    <hr class="sep" />
                 </div>
                 <div class="col-md-6">
                     <div class="owl-carousel controlls-over" data-plugin-options="{">

@@ -11,8 +11,10 @@
           <p>La machine permet dappliquer, automatiquement ou semi-automatiquement, du ruban adhésif ou de la colle sur le dessous et le dessus de la caisse pour tenir fermées les boîtes de carton. Elles permettent de gagner énormément de temps et de sassurer dune fermeture de boîte parfaite et solide, prête à quitter l'entrepôt pour voguer vers votre clientèle.</p>
           <p>Les systèmes de fermeture et de collage de boites de LM Manutentions s'adaptent aux exigences de tous les types d'industries. Notamment celles de l'agro-alimentaire qui exige des contrôles sanitaires supérieurs.</p>
           <p>Tous nos systèmes sont de haute qualité et réalisent des hautes performances. Ils sont faciles d'utilisation (user friendly) et d'entretien. LM Manutention formera votre personnel pour un usage et un entretien optimaux.</p>
-          <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+          <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
           <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+          <br/>
+				  <hr class="sep" />
         </div>
         <div class="col-md-6">
           <div class="owl-carousel controlls-over" data-plugin-options="{">

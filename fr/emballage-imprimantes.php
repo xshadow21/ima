@@ -12,9 +12,11 @@
 				<p>&Eacute;tant plus compactes que les imprimantes traditionnelles, les imprimantes &agrave; jet d&rsquo;encre peuvent &ecirc;tre int&eacute;gr&eacute;es optimalement &agrave; votre syst&egrave;me d&rsquo;emballage ou &agrave; votre ligne de production. Facile d&rsquo;utilisation, les codes &agrave; imprimer peuvent &ecirc;tre envoy&eacute;s &agrave; distance et les tests faits directement de votre site de production, les r&eacute;sultats en seront plus que satisfaisants.</p>
 				<p>De plus, le codeur &agrave; jet d&rsquo;encre offre des possibilit&eacute;s de d&eacute;corer des bo&icirc;tes avec des logotypes de haute r&eacute;solution, d&rsquo;ajouter des offres sp&eacute;ciales, des promotions, etc. Le processus productif est ainsi plus flexible et dynamique, plus adapt&eacute; &agrave; la demande du march&eacute;.</p>
 				<p>Plus besoin de confier ce travail &agrave; des fournisseurs externes et d&rsquo;entasser des boites pr&eacute;-imprim&eacute;es. Fini la d&eacute;pendance ! Avec pour r&eacute;sultat, que votre syst&egrave;me de codage &agrave; jet d&rsquo;encre contribuera &agrave; r&eacute;duire les co&ucirc;ts et les d&eacute;lais de livraison.</p>
-				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />  
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/emballage/ink1.jpg" alt="" /></div>

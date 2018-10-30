@@ -61,7 +61,7 @@
           <p style="text-align: justify; text-justify: inter-word; padding-left: 10px;">
             Founded in 2001 by Caroline Lono, LM Manutentions is a company whose head office is located in the Laurentians, North of Montreal. We are expert advisors in the sale and installation of handling systems, conveyors, storage, packing and labelling to commercial or industrial companies.          <br>
           <div class="text-center">
-            <a href="/en/request-a-quote.php"><button class="btn new-btn new-btn-dark text-left"> <div style="float:right;"><i class="fa fa-chevron-right"></i></div><div style="float:right;">Request<br>a quote</div></button></a>
+            <a href="/en/request-a-quote"><button class="btn new-btn new-btn-dark text-left"> <div style="float:right;"><i class="fa fa-chevron-right"></i></div><div style="float:right;">Request<br>a quote</div></button></a>
           </div>
         </div>
         <!-- /FOOTER LATEST POSTS -->

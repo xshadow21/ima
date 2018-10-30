@@ -17,9 +17,11 @@
 					<li>Fromagerie St-Albert</li>
 					<li>Chocolat Lamontagne</li>
 				</ul>
-				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />  
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/convoyeurs/agro2.jpg" alt="" /></div>

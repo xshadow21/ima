@@ -12,9 +12,11 @@
         <p>Being more compact than conventional printers, industrial ink jet printers can be integrated optimally to your packaging system or your production line. Easy to use, the codes to be printed can be sent remotely and directly made tests from your production site, the results will be more than satisfactory.</p>
         <p>In addition, industrial inkjet coder offers opportunities to decorate boxes with high-resolution logos, to add special offers, promotions, etc. The production process is more flexible and dynamic, more adapted to market demand.</p>
         <p>From now on, no need to entrust this work to external suppliers and pile preprinted boxes. No more dependence! With the result that your industrial inkjet coding system will reduce costs and delivery times.</p>
-        &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+        &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/emballage/ink1.jpg" alt="" /></div>

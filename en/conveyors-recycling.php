@@ -29,9 +29,11 @@
             <li>Entrepôt de métaux</li>
             <li>Recyclage 2M Ressources</li>
           </ul>
-            <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+            <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
           <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-          </div>
+          <br/>
+				  <hr class="sep" />  
+        </div>
         <div class="col-md-6">
           <div class="owl-carousel controlls-over" data-plugin-options="{">
             <div><img class="img-responsive" src="/images/convoyeurs/recyclage2.jpg" alt="" /></div>

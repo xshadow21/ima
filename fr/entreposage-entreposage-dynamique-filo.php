@@ -12,9 +12,11 @@
 				<p>La rotation des produits entreposés grâce à ce système sapparente donc à celui dun système drive-in, cest-à-dire que la première palette entreposée est la dernière cueillie. Cependant, cette installation de type FILO (First in/ Last out) permet lentreposage de produits différents sur chacun des niveaux et facilite significativement les opérations de déchargement depuis lallée de circulation. De plus, comme l'opérateur n'a pas à conduire dans le rack (1) pour enlever les palettes, la possibilité de dommage accidentels est réduite de façon appréciable.</p>
 				<p>Pour automatiser le réapprovisionnement des stocks de réserve, cette option de stockage est idéale en tout point. Ce système permet la création de plusieurs points de préparation de commande et son entretien est minime.</p>
 				<p>Léquipe de professionnels de LM Manutention vous présentera les multiples bénéfices du <strong>Système d'entreposage dynamique pour palettes à recul</strong> et pourquoi de nombreuses entreprises ont adopté cette solution dentreposage.</p>
-				<a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php">Demander une<br /><strong>soumission</strong></a>
+				<a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission">Demander une<br /><strong>soumission</strong></a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/entreposage/push-back1.jpg" alt="" /></div>

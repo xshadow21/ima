@@ -12,8 +12,10 @@
 <p>Operating at different speeds, a case former greatly accelerate the process of packing, storage and delivery.</p>
 <p>Our professional team will install the box former system to integrate your packaging line. Semi-automatic or high-speed fully automatic, box's assemblers optimize the assembly space and maximize productivity while minimizing costs.</p>
 <p>They are accurate, reliable and easy to use. LM Manutentions will train your staff for an optimal use and maintenance.</p>
-&nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+&nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
 <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+<br/>
+<hr class="sep" />
 </div>
 <div class="col-md-6">
 <div class="owl-carousel controlls-over" data-plugin-options="{">

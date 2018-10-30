@@ -13,8 +13,10 @@
 <li> The storage system with two drive-thru inputs is similar to the previous system, but the configuration can access the inventory from the front and rear of the structure, allowing more flexibility and ease for the rotation of the stored materials.</li>
 </ul>
 <p> </p>
-<br />   <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+<br />   <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
 <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+<br/>
+<hr class="sep" />
 </div>
 <div class="col-md-6">
 <div class="owl-carousel controlls-over" data-plugin-options="{">

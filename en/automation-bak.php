@@ -23,8 +23,10 @@
                     <p>Our team is experienced in industrial robotization ; our infrastructure offers us the flexibility to design specific equipment tailored to the needs of your company and industry.</p>
                     <p>Don’t hesitate to contact our experts. They will be happy to answer you and guide you in robot systems. Take advantage of our free estimate by requesting a quote below or by contacting us at :
                         <a href="tel:1-450-226-8777">1-450-226-8777</a>.</p>
-                    &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+                    &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
                     <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+                    <br/>
+				    <hr class="sep" />
                 </div>
                 <div class="col-md-6">
                     <div class="owl-carousel controlls-over" data-plugin-options="{">

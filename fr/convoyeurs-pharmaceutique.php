@@ -12,8 +12,10 @@
         <p>Nos solutions de convoyeurs assurent un débit efficace des produits, le changement régulier de types et de conditionnement, un rendement rapide et l'augmentation de la demande.</p>
         <p>À ces qualités s'ajoute la souplesse d'adaptation aux programmes de production exigeant plusieurs produits sur une même ligne de production. De plus, les systèmes de convoyeurs de LM Manutentions répondent aux normes de l'industrie cosmétique et pharmaceutique.</p>
         <p>LM Manutentions propose différents concepts de chaîne avec des caractéristiques de surface telles que cloutage, rouleurs, plaquettes de friction, dessus d'acier et chaîne antistatique. Elles offrent des possibilités illimitées pour la manutention d'un large éventail de produits et d'objectifs de transport.</p>
-          <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+          <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+        <br/>
+				<hr class="sep" />
       </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">

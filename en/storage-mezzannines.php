@@ -12,9 +12,11 @@
         <p>Various types of installation prevail depending on whether one opts for a structural system with minimal support under the floor, or that one opts to develop the mezzanine on a pallet rack system. A variety of accessories is available to you with a choice of floors, stairs, ramps, curbs and barriers available to complement the functionality of these custom-designed systems, according to your requests.</p>
         <p>Industrial mezzanines installed by the LM Manutentions professional team are designed to achieve considerable loads performance. They allow the installation of any additional shelving required by your activities. Shelving above and below the mezzanine is always very efficient.</p>
         <p>Let us care to accompany you in your thoughts before starting your project.</p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/entreposage/Mezz5.jpg" alt="" /></div>

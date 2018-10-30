@@ -12,9 +12,11 @@
         <p>The machine allows to apply, automatically or semi-automatically, tape or glue on the bottom and top of the case to close and seal all flaps of the cardboard boxes. You will save huge time and will ensure a perfect and solid box closure, ready to leave the warehouse to reach your customers.</p>
         <p>LM Manutentions bonding and closing cardboard boxes systems can fit all types of demands from different industries; including food industries that requires higher health checks.</p>
         <p>We offer high-quality systems that achieve a high performance level. They are facile to operate (user friendly) and easy to maintain. LM Manutentions will train your staff to obtain an optimal use and maintenance of the sealing system or machine.</p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/emballage/case-sealer1.jpg" alt="" /></div>

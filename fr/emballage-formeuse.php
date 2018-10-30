@@ -12,9 +12,11 @@
           <p>Fonctionnant &agrave; diff&eacute;rentes vitesses, une formeuse debo&icirc;tes acc&eacute;l&egrave;re grandement le processus d&rsquo;emballage, d&rsquo;entreposage et de livraison.</p>
           <p>Notre &eacute;quipe professionnelle installera votre formeuse de boites pour l&rsquo;int&eacute;grer dans votre ligne de production et d&rsquo;emballage. De semi-automatique &agrave; grande vitesse enti&egrave;rement automatique, les monteurs de boites optimisent l&rsquo;espace de production et maximisent la productivit&eacute; tout en minimisant les co&ucirc;ts.</p>
           <p>Ils sont pr&eacute;cis, fiable et facile &agrave; utiliser. LM Manutention formera votre personnel pour un usage et un entretien optimaux.</p>
-          &nbsp; <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+          &nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
           <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-          </div>
+          <br/>
+				  <hr class="sep" />  
+        </div>
         <div class="col-md-6">
           <div class="owl-carousel controlls-over" data-plugin-options="{">
             <div><img class="img-responsive" src="/images/emballage/case-former1.jpg" alt="" /></div>

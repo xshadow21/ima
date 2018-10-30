@@ -17,9 +17,11 @@
         </ul>
         <p>The Carton Flow racking storage system meets the needs of companies in the following fields: bottling, soft and alcoholic drinks, distribution, confectionery, stationery, printing, transportation, etc.</p>
         <p>Let us show you how the LM Manutentions Carton Flow racking storage system can improve the storage and management of your goods and help save time and valuable money.</p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/entreposage/cartonflow1.jpg" alt="" /></div>

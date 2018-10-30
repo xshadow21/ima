@@ -11,8 +11,10 @@
         <p class="emphase"><br />Need to carry containers? LM Manutentions offers a complete line of sanitary conveyors for the specific needs of cosmetic and pharmaceutical companies.</p>
         <p>Our solutions ensure an efficient product flow, regular changeover of types and packages, fast turn-around time and increasing demands. Along with the versatility to adapt to working schedules that require multiple items on a single production line.</p>
         <p>LM Manutentions proposes various chain concepts with surface features such as nailing, rollers, friction pads, above steel and anti static chain. They offer unlimited possibilities for handling a wide product's range and transport tasks.</p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+        <br/>
+				<hr class="sep" />
       </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">

@@ -13,9 +13,11 @@
         <p>They offer endless possibilities for the identification and the promoting of boxes, pallets, crates, barrels and other containers used for packaging: lot numbers, expiration dates, bar codes, progressive numbering, logos and other graphics, etc.</p>
         <p>Robust and durable, LM Manutentions labelers are made with top quality components, ensuring reliability and accuracy at all times. They are able to work in most industrial environments.</p>
         <p>LM Manutentions Print and apply machine offers a wide range of standard and optional parameters to perform more specialized tasks. Our systems can be integrated easily into your packaging or production line to meet your specific needs.</p>
-          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/emballage/print1.jpg" alt="" /></div>

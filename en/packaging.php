@@ -20,10 +20,11 @@
         <h2 style="color: #f68b1e;"><strong>Labeling and automatic marking system </strong></h2>
         <p>Labeling and marking are among the elements used to inform the consumer or the client. Marking is also a way to differentiate its products and services from the competition.</p>
         <p>LM Manutentions printing and programmed label applications systems like: print and apply (print and apply) or the ink jet (Ink Jet), respectively guarantee a computerized automatic labeling as well as the printing on several sides of the product box. Our professional team will recommend which system to install into your production line.</p>
-        &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
-        &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+        &nbsp; <br /><a class="BlocOrangeButton pull-left" href="/en/request-a-quote"><strong>Request<br>a Quote</strong></a>
         <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-        </div>
+        <br/>
+				<hr class="sep" />  
+      </div>
       <div class="col-md-6">
         <div class="owl-carousel controlls-over" data-plugin-options="{">
           <div><img class="img-responsive" src="/images/emballage/ink1.jpg" alt="" /></div>

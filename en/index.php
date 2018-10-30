@@ -41,7 +41,7 @@
             </p><p>
               We offer expertise, a competent and dedicated team of professionals as well as comprehensive services to support companies in the selection and installation of the conveyor system, storage, packaging or labelling tailored to their field of activity, their work location and their needs.
             </p>
-            <a href="/en/request-a-quote.php"><button class="btn new-btn new-btn-accent">Request a quote! <span class="space-10"></span><i class="fa fa-chevron-right" style="padding: 0;"></i></button></a>
+            <a href="/en/request-a-quote"><button class="btn new-btn new-btn-accent">Request a quote! <span class="space-10"></span><i class="fa fa-chevron-right" style="padding: 0;"></i></button></a>
           </div>
 
           <div class="col-md-1">

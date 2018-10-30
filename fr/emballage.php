@@ -18,9 +18,10 @@
 				<h2 style="color: #f68b1e;"><strong>Syst&egrave;me d&rsquo;&eacute;tiquetage et de marquage industriel automatis&eacute;</strong></h2>
 				<p>L&rsquo;&eacute;tiquetage et le marquage font partie des &eacute;l&eacute;ments servant &agrave; informer le consommateur, ou le client. Le marquage constitue &eacute;galement un moyen pour l&rsquo;entreprise de diff&eacute;rencier ses produits et ses services de la concurrence.</p>
 				<p>Les syst&egrave;mes d'impression et de pose d'&eacute;tiquettes programm&eacute;s, tels imprimer et appliquer (print and apply) ou celui &agrave; jet d&rsquo;encre (Ink Jet), garantissent respectivement un &eacute;tiquetage automatique informatis&eacute; et une impression sur plusieurs faces du produit. L&rsquo;&eacute;quipe professionnelle de LM Manutentions vous conseillera sur le syst&egrave;me &agrave; int&eacute;grer dans votre ligne de production.</p>
-				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/emballage/ink1.jpg" alt="" /></div>

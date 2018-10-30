@@ -14,9 +14,11 @@
 				<p>LM Manutention vous offre des <strong>rayonnages à palettes dynamiques FIFO</strong> adaptables à vos besoins. Nos unités sont disponibles en baies simples ou doubles, à niveaux multiples, et peuvent accommoder un très grand nombre de palettes en profondeur.</p>
 				<p> </p>
 				<h2 style="color: #f68b1e;"> </h2>
-				<a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+				<a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
-      </div>
+				<br/>
+				<hr class="sep" />  
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/entreposage/fifo2.jpg" alt="" /></div>

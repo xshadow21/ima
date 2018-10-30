@@ -11,8 +11,10 @@
           <p>Divers types d'installation prévalent selon que l'on opte pour un système structural, avec un minimum de support sous le plancher, ou que l'on opte d'aménager la mezzanine sur un système d'étagères à palettes. Une variété daccessoires vous est offertes avec plusieurs choix de planchers, descaliers, de rampes, de bordures et de barrières disponibles pour compléter le caractère fonctionnel de ces systèmes conçus sur-mesure, selon vos demandes.</p>
           <p>Les mezzanines industrielles installées par léquipe de professionnels de LM Manutention sont conçues pour atteindre des performances de charges considérables. Elles permettent laménagement de tout le rayonnage supplémentaire requis par vos activités. Le rayonnage au-dessus et au-dessous de la mezzanine sera toujours très performant.</p>
           <p>Confiez-nous le soin de vous accompagner dans vos réflexions avant dentreprendre vos projets.</p>
-            <br />   <br />   <br /> <a class="BlocOrangeButton pull-left" href="https://www.lmmanutentions.com/fr/demander-une-soumission.php"> Demander une<br /><strong>soumission</strong> </a>
+            <br />   <br />   <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
           <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+          <br/>
+				  <hr class="sep" />
         </div>
         <div class="col-md-6">
           <div class="owl-carousel controlls-over" data-plugin-options="{">

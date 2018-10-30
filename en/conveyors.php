@@ -48,8 +48,10 @@
             <li>Wire Mesh belt</li>
             <li>Zero pressure accumulation conveyor</li>
           </ul>
-          &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote.php">Request<br>a Quote</a></strong>
+          &nbsp; <br /><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong>
           <div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
+          <br/>
+				  <hr class="sep" />
         </div>
         <div class="col-md-6">
           <div class="owl-carousel controlls-over" data-plugin-options="{">
