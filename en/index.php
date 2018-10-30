@@ -144,7 +144,7 @@ Purolator</span>
                       <div class="ts">
                         <p>LM Manutentions invites you to meet its team of professionals at the booth 1601 of PACKEX Montreal 2016.&nbsp;The event, which will be held on November 30th and December 1<sup>st</sup> of 2016, is the most important exhibition for the packaging, handling and advanced manufacturing industries in Quebec.</p><p><strong>Tell us about your projects!</strong></p><p>Take advantage of this opportunity to discover our products and services and discuss your plans face-to-face with ...                                                            </p></div>
                       <span style="color: hsla(0,0%,100%,1.00)">2016-11-07</span>
-                      <a href="/en/blog/packex-montreal-2016" target="_parent" style="text-transform:uppercase; color:#e0be81">
+                      <a href="/en/blog/blogRenderer?id=packex-montreal-2016.html" target="_parent" style="text-transform:uppercase; color:#e0be81">
                         Read next ››
                       </a>
 
