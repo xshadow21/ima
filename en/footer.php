@@ -106,6 +106,7 @@
 
 <!-- Custom -->
 <script type="text/javascript" src="/assets/js/custom.js"></script>
+<script type="text/javascript" src="/assets/js/quote.js"></script>
 
 <!-- bxSlider Javascript file -->
 <script src="/assets/plugins/jquery.bxslider/jquery.bxslider.js"></script>
