@@ -34,15 +34,15 @@
                                 <br>
                                 <div class="row" style="font-size: 13px; line-height: 17px;">
                                     <div class="col-xs-4">Lundi</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 et 13:00-16:30</div>
                                     <div class="col-xs-4">Mardi</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 et 13:00-16:30</div>
                                     <div class="col-xs-4">Mercredi</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 et 13:00-16:30</div>
                                     <div class="col-xs-4">Jeudi</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 et 13:00-16:30</div>
                                     <div class="col-xs-4">Vendredi</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00</div>
                                     <div class="col-xs-4">Samedi</div>
                                     <div class="col-xs-8 text-right">Fermé</div>
                                     <div class="col-xs-4">Dimanche</div>

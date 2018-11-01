@@ -34,15 +34,15 @@
                                 <br>
                                 <div class="row" style="font-size: 13px; line-height: 17px;">
                                     <div class="col-xs-4">Monday</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 and 13:00-16:30</div>
                                     <div class="col-xs-4">Tuesday</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 and 13:00-16:30</div>
                                     <div class="col-xs-4">Wednesday</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 and 13:00-16:30</div>
                                     <div class="col-xs-4">Thuesday</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00 and 13:00-16:30</div>
                                     <div class="col-xs-4">Friday</div>
-                                    <div class="col-xs-8 text-right">8:30AM–12AM</div>
+                                    <div class="col-xs-8 text-right">8:30–12:00</div>
                                     <div class="col-xs-4">Saturday</div>
                                     <div class="col-xs-8 text-right">Closed</div>
                                     <div class="col-xs-4">Sunday</div>
