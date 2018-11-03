@@ -11,7 +11,7 @@
 				<p>Avec des partenaires reconnus, nous vous offrons une gamme complète de produits et de services, notamment un service complet d'ingénierie ainsi quune équipe d'installation et dentretien.</p>
 				<p>LM Manutentions dessert toutes les régions du Québec, de lOntario et des Provinces maritimes.</p>
 			</div>
-			<div class="col-md-6"><img class="img-responsive" style="margin-top: 64px;" src="https://www.lmmanutentions.com/images/apropos.jpg" /></div>
+			<div class="col-md-6"><img class="img-responsive" style="margin-top: 64px;" src="../images/main-slideshow/slide-01.jpg" /></div>
 		</div>
 	</section>
 </div>

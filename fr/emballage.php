@@ -22,6 +22,7 @@
 				<div class="BlocOrangeButton pull-right">Information<br /><strong>450-226-8777</strong></div>
 				<br/>
 				<hr class="sep" />
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/emballage/ink1.jpg" alt="" /></div>

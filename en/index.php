@@ -135,28 +135,24 @@ Purolator</span>
             <div class="col-xs-12 col-sm-6 col-sm-height col-sm-top" style="background:#8d8d8d">
               <div class="inside inside-full-height">
                 <div class="content" style="padding-top:50px">
-
-
                   <ul style="margin:0 0 25px 0; padding:0; display:block">
-
                     <li class="margin-bottom-15" style="list-style-type:none">
-                      <h2 style="color:#e0be81; text-transform: none; display:block">LM Manutentions will be at the PACKEX Montreal 2016</h2>
+                      <h2 style="color:#e0be81; text-transform: none; display:block">We will be attending at Advanced Design and Manufacturing this november</h2>
                       <div class="ts">
-                        <p>LM Manutentions invites you to meet its team of professionals at the booth 1601 of PACKEX Montreal 2016.&nbsp;The event, which will be held on November 30th and December 1<sup>st</sup> of 2016, is the most important exhibition for the packaging, handling and advanced manufacturing industries in Quebec.</p><p><strong>Tell us about your projects!</strong></p><p>Take advantage of this opportunity to discover our products and services and discuss your plans face-to-face with ...                                                            </p></div>
-                      <span style="color: hsla(0,0%,100%,1.00)">2016-11-07</span>
-                      <a href="/en/blog/blogRenderer?id=packex-montreal-2016.html" target="_parent" style="text-transform:uppercase; color:#e0be81">
+                      <p>This year, LM Manutentions will participate at the PACKEX event, one of the 5 exhibitions that will take place at the "Advanced Design and Manufacturing" expo; an event that will allow you to discover the suppliers who will advance your business.</p><br/>
+                      <p>More than 250 exhibitors will be there to show you solutions in the fields of packaging, plastics, automation and robotics, design and processing.</p>
+                      <span style="color: hsla(0,0%,100%,1.00)">2018-11-01</span>
+                      <a href="/en/blog/blogRenderer?id=packex-montreal-2018.html" target="_parent" style="text-transform:uppercase; color:#e0be81">
                         Read next ››
                       </a>
 
                       <img class="visible-md visible-lg img-responsive pull-right" src="/images/blog/6425562943.jpg" alt="LM Manutentions will be at the PACKEX Montreal 2016">
                       <div class="clearfix"></div>
                     </li>
+                    
                     <li style=" list-style-type:none; padding:15px 0; color:white">
                       <hr style="margin:0; padding:0; border:1px dashed hsla(0,0%,100%,1.00)">
                     </li>
-
-
-
                   </ul>
                 </div>
               </div>

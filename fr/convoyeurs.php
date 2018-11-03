@@ -60,6 +60,7 @@
 				<hr class="sep" /><strong>Voir les autres produits <em>Convoyeurs</em>:</strong><br />
 				<br/>
 				<hr class="sep" />
+			</div>
 			<div class="col-md-6">
 				<div class="owl-carousel controlls-over" data-plugin-options="{">
 					<div><img class="img-responsive" src="/images/convoyeurs/agro4.jpg" alt="" /></div>

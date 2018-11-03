@@ -146,15 +146,16 @@ Purolator</span>
 							<ul style="margin:0 0 25px 0; padding:0; display:block">
 
 								<li class="margin-bottom-15" style="list-style-type:none">
-									<h2 style="color:#e0be81; text-transform: none; display:block">LM Manutentions sera au PACKEX Montréal 2016</h2>
+									<h2 style="color:#e0be81; text-transform: none; display:block">Nous serons présents au Advanced Design and Manufacturing ce novembre</h2>
 									<div class="ts">
-										<p>LM Manutentions vous invite à venir rencontrer son équipe de professionnels au kiosque 1601 du PACKEX Montréal 2016,. L’événement, qui se tiendra le 30 novembre et le 1er décembre 2016, est l’exposition la plus importante pour l’industrie de l'emballage, la manutention et la fabrication évoluée au Québec.</p><p><strong>Parlez-nous de vos projets !</strong></p><p>Profitez de cette occasion pour découvrir nos produits et services et discuter de ...                                                            </div>
-									<span style="color: hsla(0,0%,100%,1.00)">2016-11-07</span>
-									<a href="/fr/blog/blogRenderer?id=packex-montreal-2016.html" target="_parent"  style="text-transform:uppercase; color:#e0be81">
+									<p>Assistez gratuitement à l'expo "Advanced Design and Manufacturing"</p><br/>
+									<p>Cette année, LM manutentions participe à l’événement PACKEX, l'une des 5 expositions qui auront lieu à l'expo "Advanced Design and Manufacturing". Un événement qui vous permettra de découvrir les fournisseurs qui feront progresser votre entreprise.</p>
+									<span style="color: hsla(0,0%,100%,1.00)">2018-11-01</span>
+									<a href="/fr/blog/blogRenderer?id=packex-montreal-2018.html" target="_parent"  style="text-transform:uppercase; color:#e0be81">
 										Lire la suite &#8250;&#8250;
 									</a>
 
-									<img class="visible-md visible-lg img-responsive pull-right" src="/images/blog/6425562943.jpg" alt="LM Manutentions sera au PACKEX Montréal 2016">
+									<img class="visible-md visible-lg img-responsive pull-right" src="/images/blog/6425562943.jpg" alt="Nous serons présents au Advanced Design and Manufacturing ce novembre">
 									<div class="clearfix"></div>
 								</li>
 								<li style=" list-style-type:none; padding:15px 0; color:white">

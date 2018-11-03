@@ -38,19 +38,26 @@
 			<div class="Boite blog-list-container">
 				<h3><strong>Blog</strong> list</h3>
 				<ul>
-					<?php 
+				<?php 
 						$dir = new DirectoryIterator(dirname("./content/*"));
-						foreach ($dir as $file) {
-							if (!$file->isDot()) {
-								$dom = new DOMDocument;
-								$path = "./content/" . $file->getFilename();
-								@$dom->loadHTML(mb_convert_encoding(file_get_contents($path), 'HTML-ENTITIES', "UTF-8"));
 
-								$title = $dom->getElementsByTagName('h1')->item(0);
-
-								echo("<li class='margin-bottom-15'>");
-								echo("<a href='/en/blog/blogRenderer?id=$file' target='_parent' class='tools_color-black'>" . $title->textContent . "</a></li>");
+						$fileList = array();
+						foreach ($dir as $fileinfo) {
+							if (!$fileinfo->isDot()) {   
+								$fileList[$fileinfo->getMTime()] = $fileinfo->getFilename();
 							}
+						}
+						krsort($fileList);
+
+						foreach ($fileList as $file) {
+							$dom = new DOMDocument;
+							$path = "./content/" . $file;
+							@$dom->loadHTML(mb_convert_encoding(file_get_contents($path), 'HTML-ENTITIES', "UTF-8"));
+
+							$title = $dom->getElementsByTagName('h1')->item(0);
+
+							echo("<li class='margin-bottom-15'>");
+							echo("<a href='/en/blog/blogRenderer?id=$file' target='_parent' class='tools_color-black'>" . $title->textContent . "</a></li>");
 						}
 					?>
 				</ul>

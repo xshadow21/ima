@@ -13,7 +13,7 @@
 <p>With recognized partners, we offer a full range of products and services, including a full Engineering Department as well as a team of installation and maintenance.</p>
 <p>LM Manutentions serves all regions of Quebec, Ontario and the Maritime Provinces.</p>
 </div>
-<div class="col-md-6"><img class="img-responsive" style="margin-top: 64px;" src="https://www.lmmanutentions.com/en/images/apropos.jpg" /></div>
+<div class="col-md-6"><img class="img-responsive" style="margin-top: 64px;" src="../images/main-slideshow/slide-01.jpg" /></div>
 </div>
 </section>
 </div>		<!-- FOOTER -->
