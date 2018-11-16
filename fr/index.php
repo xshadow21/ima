@@ -146,7 +146,7 @@ Purolator</span>
 							<ul style="margin:0 0 25px 0; padding:0; display:block">
 
 								<li class="margin-bottom-15" style="list-style-type:none">
-									<h2 style="color:#e0be81; text-transform: none; display:block">Nous serons présents au Advanced Design and Manufacturing ce novembre</h2>
+									<h2 style="color:#e0be81; text-transform: none; display:block">Fière participant au Advanced Design and Manufacturing exhibitions</h2>
 									<div class="ts">
 									<p>Assistez gratuitement à l'expo "Advanced Design and Manufacturing"</p><br/>
 									<p>Cette année, LM manutentions participe à l’événement PACKEX, l'une des 5 expositions qui auront lieu à l'expo "Advanced Design and Manufacturing". Un événement qui vous permettra de découvrir les fournisseurs qui feront progresser votre entreprise.</p>
@@ -155,7 +155,7 @@ Purolator</span>
 										Lire la suite &#8250;&#8250;
 									</a>
 
-									<img class="visible-md visible-lg img-responsive pull-right" src="/images/blog/6425562943.jpg" alt="Nous serons présents au Advanced Design and Manufacturing ce novembre">
+									<img class="visible-md visible-lg img-responsive pull-right" src="/images/blog/apex3.jpeg" alt="Fière participant au Advanced Design and Manufacturing exhibitions">
 									<div class="clearfix"></div>
 								</li>
 								<li style=" list-style-type:none; padding:15px 0; color:white">
