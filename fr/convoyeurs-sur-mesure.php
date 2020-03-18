@@ -12,6 +12,14 @@
 				<p>LM Manutentions s'associe avec des distributeurs de convoyeurs réputés afin de satisfaire vos besoins de transport de marchandises.</p>
 				<p>Que ce soit pour réparer une pièce, modifier une section ou pour l’installation d’un nouveau convoyeur, LM Manutentions accompagne les entreprises depuis 2001 pour améliorer leur productivité.</p>
 				<p>Nous nous adaptons à vos objectifs et votre chaîne de production; nous travaillons avec des entreprises de plusieurs industries. Voici des exemples :</p>
+				<ul class="fa-ul">
+					<li><a href="/fr/convoyeurs-agroalimentaire">Agroalimentaire</a></li>
+					<li><a href="/fr/convoyeurs-embouteillage">Embouteillage</a></li>
+					<li><a href="/fr/convoyeurs-emballage">Emballage</a></li>
+					<li><a href="/fr/convoyeurs-mines-et-carrieres">Mines et carrières</a></li>
+					<li><a href="/fr/convoyeurs-recyclage">Recyclage</a></li>
+					<li><a href="/fr/convoyeurs-pharmaceutique">Produits pharmaceutiques</a></li>
+				</ul>
 
 				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 				<br/>
@@ -26,8 +34,6 @@
 					<div><img class="img-responsive" src="/images/convoyeurs/agro1.jpg" alt="" /></div>
 					<div><img class="img-responsive" src="/images/convoyeurs/agro6.jpg" alt="" /></div>
 				</div>
-
-				&nbsp; <br /> <a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong> </a>
 			</div>
 		</div>
     <?php include 'conveyers-menu.php' ?>
