@@ -8,6 +8,9 @@
   <div class="col-sm-4"><a href="/fr/convoyeurs-mines-et-carrieres"><div class="mines"><div class="c-layer"></div>Mines et Carri&egrave;res</div></a></div>
   <div class="col-sm-4"><a href="/fr/convoyeurs-recyclage"><div class="recyclage"><div class="c-layer"></div>Recyclage</div></a></div>
   <div class="col-sm-4"><a href="/fr/convoyeurs-pharmaceutique"><div class="pharmaceutique"><div class="c-layer"></div>Pharmaceutique</div></a></div>
+
+  <div class="col-sm-4"></div>
+  <div class="col-sm-4"><a href="/fr/convoyeurs-sur-mesure"><div class="custom-conv"><div class="c-layer"></div>Convoyeurs sur mesure</div></a></div>
 </div>
 
 <link href="/assets/css/services-menu.css" rel="stylesheet" type="text/css" />

@@ -480,6 +480,7 @@
                             <li><a href="/fr/convoyeurs-mines-et-carrieres">Mines et carrières</a></li>
                             <li><a href="/fr/convoyeurs-recyclage">Recyclage</a></li>
                             <li><a href="/fr/convoyeurs-pharmaceutique">Pharmaceutique</a></li>
+                            <li><a href="/fr/convoyeurs-sur-mesure">Convoyeurs sur mesure</a></li>
                         </ul>
                     </li>
                     <li>
