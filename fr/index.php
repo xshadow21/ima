@@ -12,7 +12,7 @@
     </div>
     <div class="main-slide" style="background-image: url('/images/main-slideshow/slide-03.jpg');">
       <div class="text container">
-        <h2 style="font-weight: 400;">LM MANUTENTIONS TROUVERA LA SOLUTION D’<span style="font-weight: 600;">EMBALLAGE</span> POUR VOUS !</h2><br>
+        <h2 style="font-weight: 400;">LM MANUTENTIONS OFFRE DES SERVICES D'INSTALLATION DE CONVOYEURS SUR MESURE</h2><br>
       </div>
     </div>
     <div class="main-slide" style="background-image: url('/images/main-slideshow/slide-02.jpg');">
@@ -141,10 +141,25 @@ Purolator</span>
 				<div class="col-xs-12 col-sm-6 col-sm-height col-sm-top" style="background:#8d8d8d">
 					<div class="inside inside-full-height">
 						<div class="content" style="padding-top:50px">
+							<ul style="margin:0 0 25px 0; padding:0; display:block">
+								<li class="margin-bottom-15" style="list-style-type:none">
+									<h2 style="color:#e0be81; text-transform: none; display:block">CONVOYEURS À ROULEAUX ERS - LM MANUTENTIONS</h2>
+									<div class="ts">
+									<p>DÉCOUVREZ LES AVANTAGES DU CONVOYEURS À ROULEAUX ERS</p><br/>
+									<p>Découvrez les convoyeurs à rouleaux ERS, des systèmes de convoyeurs polyvalent et de qualité proposé par LM Manutentions</p>
+									<span style="color: hsla(0,0%,100%,1.00)">2019-11-27</span>
+									<a href="/fr/blog/blogRenderer?id=convoyeurs-rouleaux-ers.html" target="_parent"  style="text-transform:uppercase; color:#e0be81">
+										Lire la suite &#8250;&#8250;
+									</a>
 
+									<div class="clearfix"></div>
+								</li>
+								<li style=" list-style-type:none; padding:15px 0; color:white">
+									<hr style="margin:0; padding:0; border:1px dashed hsla(0,0%,100%,1.00)"/>
+								</li>
+							</ul>
 
 							<ul style="margin:0 0 25px 0; padding:0; display:block">
-
 								<li class="margin-bottom-15" style="list-style-type:none">
 									<h2 style="color:#e0be81; text-transform: none; display:block">Fière participant au Advanced Design and Manufacturing exhibitions</h2>
 									<div class="ts">

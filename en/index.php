@@ -12,7 +12,7 @@
         </div>
         <div class="main-slide" style="background-image: url('/images/main-slideshow/slide-03.jpg');">
           <div class="text container">
-            <h2 style="font-weight: 400;">LM Manutentions will find your <span style="font-weight: 600;">packaging solution!</span></h2><br>
+            <h2 style="font-weight: 400;">LM MANUTENTIONS OFFERS CUSTOM CONVEYOR INSTALLATION</h2><br>
           </div>
         </div>
         <div class="main-slide" style="background-image: url('/images/main-slideshow/slide-02.jpg');">

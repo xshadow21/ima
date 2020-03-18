@@ -9,13 +9,15 @@
           <hr class="sep" />
           <p class="emphase"><br /> Since 2001, our team of expert consultants installed for many companies conveying systems for moving from point A to point to B different products and materials, whether they are small or large, light or heavy.<br />Sectors:</p>
           <ul class="fa-ul">
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-processing-food.php">Processing Food Industry</a></li>
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-beverage.php">Beverage Industry</a></li>
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-packaging.php">Packaging</a></li>
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-mining-and-querries.php">Mining and Querries sectors</a></li>
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-recycling.php">Recycling companies</a></li>
-            <li><a href="https://www.lmmanutentions.com/en/en/conveyors-cosmetic-pharmaceutical.php">Cosmetic and Pharmaceutical industries</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-processing-food">Processing Food Industry</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-beverage">Beverage Industry</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-packaging">Packaging</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-mining-and-querries">Mining and Querries sectors</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-recycling">Recycling companies</a></li>
+            <li><a href="https://www.lmmanutentions.com/en/conveyors-cosmetic-pharmaceutical">Cosmetic and Pharmaceutical industries</a></li>
           </ul>
+		  <div class="row" style="margin-left: 0.05em;"><br/><strong><a class="BlocOrangeButton pull-left" href="/en/request-a-quote">Request<br>a Quote</a></strong></div>
+		  
           <p>The conveyors installed by LM Manutentions are both robust and flexible, designed to meet your specific needs with the safety standards required by your industry.</p>
           <p>With specialized and well recognized partners, we offer a wide variety of conveyors, a complete engineering team and a service for the installation and maintenance of equipment and for the training of your staff. Our responsibility is to guide you in your choice of a conveyor system according to your objectives, your needs, your operating conditions and your budget. And this until the establishment of a system of operational conveyors, sustainable and effective.</p>
           <hr class="sep" />

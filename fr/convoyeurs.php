@@ -11,13 +11,15 @@
 				<p class="emphase"><br /> Depuis 2001, notre &eacute;quipe d'experts consultants a install&eacute; pour de nombreuses entreprises des syst&egrave;mes de convoyage permettant de d&eacute;placer d'un point A &agrave; un point B diff&eacute;rents produits et mat&eacute;riaux, peu importe qu'ils soient petits ou gros, l&eacute;gers ou lourds.</p>
 				<p class="emphase">Ces entreprises commerciales et industrielles oeuvrent dans les domaines suivants :</p>
 				<ul class="fa-ul">
-					<li><a href="/fr/convoyeurs-agroalimentaire.php">Agroalimentaire</a></li>
-					<li><a href="/fr/convoyeurs-embouteillage.php">Embouteillage</a></li>
-					<li><a href="/fr/convoyeurs-emballage.php">Emballage</a></li>
-					<li><a href="/fr/convoyeurs-mines-et-carrieres.php">Mines et carri&egrave;res</a></li>
-					<li><a href="/fr/convoyeurs-recyclage.php">Recyclage</a></li>
-					<li><a href="/fr/convoyeurs-pharmaceutique.php">Produits pharmaceutiques</a></li>
+					<li><a href="/fr/convoyeurs-agroalimentaire">Agroalimentaire</a></li>
+					<li><a href="/fr/convoyeurs-embouteillage">Embouteillage</a></li>
+					<li><a href="/fr/convoyeurs-emballage">Emballage</a></li>
+					<li><a href="/fr/convoyeurs-mines-et-carrieres">Mines et carri&egrave;res</a></li>
+					<li><a href="/fr/convoyeurs-recyclage">Recyclage</a></li>
+					<li><a href="/fr/convoyeurs-pharmaceutique">Produits pharmaceutiques</a></li>
 				</ul>
+				<div class="row" style="margin-left: 0.05em;"><br/><a class="BlocOrangeButton pull-left" href="/fr/demander-une-soumission"> Demander une<br /><strong>soumission</strong></a></div>
+
 				<p>Nous utilisons des composants modulaires pour la production de convoyeurs &agrave; bande et convoyeurs &agrave; rouleaux en fonction de votre ligne de production ou d&rsquo;assemblage. Les convoyeurs install&eacute;s par <strong>LM Manutentions</strong> sont &agrave; la fois robustes et flexibles afin de r&eacute;pondre &agrave; vos besoins sp&eacute;cifiques dans le respect des normes de s&eacute;curit&eacute; exig&eacute;es par votre secteur d'activit&eacute;s<strong>. </strong></p>
 				<p>Avec des partenaires sp&eacute;cialis&eacute;s et reconnus, nous vous offrons une gamme vari&eacute;e de convoyeurs, un service complet d'ing&eacute;nierie ainsi qu'une &eacute;quipe d'installation, de formation et de maintenance.</p>
 				<hr class="sep" />
