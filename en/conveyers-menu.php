@@ -8,6 +8,7 @@
   <div class="col-sm-4"><a href="/en/conveyors-mining-and-querries"><div class="mines"><div class="c-layer"></div>Mines and Querries sectors</div></a></div>
   <div class="col-sm-4"><a href="/en/conveyors-recycling"><div class="recyclage"><div class="c-layer"></div>Recycling companies</div></a></div>
   <div class="col-sm-4"><a href="/en/conveyors-cosmetic-pharmaceutical"><div class="pharmaceutique"><div class="c-layer"></div>Cosmetic and Pharmaceutical industries</div></a></div>
+  <div class="col-sm-4"><a href="/en/conveyors-custom"><div class="agroalimentaire"><div class="c-layer"></div>Custom Conveyors</div></a></div>
 </div>
 
 <link href="/assets/css/services-menu.css" rel="stylesheet" type="text/css" />
