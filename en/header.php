@@ -478,6 +478,7 @@
               <li><a href="/en/conveyors-mining-and-querries">Mining and Querries sectors</a></li>
               <li><a href="/en/conveyors-recycling">Recycling companies</a></li>
               <li><a href="/en/conveyors-cosmetic-pharmaceutical">Cosmetic and Pharmaceutical industries</a></li>
+              <li><a href="/en/conveyors-custom">Custom Conveyors</a></li>
             </ul>
           </li>
 
