@@ -89,7 +89,7 @@
 			</div>
 
 			<button class="accordion">Emballage</button>
-			<div class="panel1">
+			<div class="panel">
 				<div class="gallery-cell">...</div>
 				<div class="gallery-cell">...</div>
 				<div class="gallery-cell">...</div>
