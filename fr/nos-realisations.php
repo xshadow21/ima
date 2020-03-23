@@ -7,25 +7,30 @@
 body { font-family: sans-serif; }
 
 .carousel {
-  background: #EEE;
+  background: #FAFAFA;
 }
 
 .carousel-cell {
   width: 66%;
-  height: 200px;
+  height: 400px;
   margin-right: 10px;
-  background: #8C8;
-  border-radius: 5px;
-  counter-increment: carousel-cell;
+  background: #333;
 }
 
-/* cell number */
-.carousel-cell:before {
+.carousel-cell-image {
   display: block;
-  text-align: center;
-  line-height: 200px;
-  font-size: 80px;
-  color: white;
+  max-height: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+  opacity: 0;
+  -webkit-transition: opacity 0.4s;
+          transition: opacity 0.4s;
+}
+
+/* fade in lazy loaded image */
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+  opacity: 1;
 }
 
 .accordion {
@@ -75,7 +80,7 @@ body { font-family: sans-serif; }
 
 			<button class="accordion">Embouteillage</button>
 			<div class="panel">
-				<div class="carousel" data-flickity='{ "wrapAround": true }'>
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
 					<div class="carousel-cell">
 						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
 					</div>
