@@ -21,8 +21,6 @@ body { font-family: sans-serif; }
   }
 }
 
-
-
 .accordion {
   background-color: #eee;
   color: #444;
@@ -60,6 +58,12 @@ body { font-family: sans-serif; }
 		<div class="row">
 			<button class="accordion">Agroalimentaire</button>
 			<div class="panel">
+				<div class="carousel"
+					data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
+					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:20%"/>
+					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:20%"/>
+					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:20%"/>
+				</div>
 			</div>
 
 			<button class="accordion">Embouteillage</button>
@@ -76,10 +80,8 @@ body { font-family: sans-serif; }
 			</div>
 
 			<button class="accordion">Emballage</button>
-			<div class="panel main-carousel" data-flickity='{ "cellAlign": "center"}'>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:20%"></div>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:20%"></div>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:20%"></div>
+			<div class="panel">
+				sdfsdf
 			</div>
 
 			<button class="accordion">Mines et carrières</button>
