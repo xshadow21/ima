@@ -70,11 +70,10 @@ body { font-family: sans-serif; }
 		<div class="row">
 			<button class="accordion">Agroalimentaire</button>
 			<div class="panel">
-				<div class="carousel"
-					data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/>
-					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/>
-					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/>
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
+					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
 				</div>
 			</div>
 
