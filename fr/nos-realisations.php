@@ -6,9 +6,11 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h2 style="color: #f68b1e;"><strong>Nos réalisations</strong></h2>
+				aaaaa
 			</div>
 
 			<div class="col-md-6">
+			sfsdf
 			</div>
 		</div>
     <?php include 'conveyers-menu.php' ?>
