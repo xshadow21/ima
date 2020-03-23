@@ -131,7 +131,7 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-$('.panel1').flickity({
+$('.panel').flickity({
   // options
   cellAlign: 'left',
   contain: true
