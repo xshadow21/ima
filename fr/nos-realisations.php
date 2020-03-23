@@ -1,7 +1,31 @@
 ﻿<?php include 'header.php' ?>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link type="text/css" rel="stylesheet" href="../libs/materialize/css/materialize.min.css"  media="screen,projection"/>
 
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
 
 <div id="wrapper">
 	<section class="container" style="margin-top: 80px;">
@@ -11,20 +35,15 @@
 			</div>
 		</div>
 
-		<ul class="collapsible">
-			<li class="active">
-				<div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
-				<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-			</li>
-			<li>
-				<div class="collapsible-header"><i class="material-icons">place</i>Second</div>
-				<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-			</li>
-			<li>
-				<div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
-				<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-			</li>
-		</ul>
+		<button class="accordion">Section 1</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		</div>
+
+		<button class="accordion">Section 2</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		</div>
 
 		<div class="row">
 			Agroalimentaire
@@ -53,14 +72,20 @@
 	</section>
 </div>
 
-<script type="text/javascript" src="../libs/materialize/js/materialize.min.js">
-$(document).ready(function(){
-    $('.collapsible').collapsible();
-  });
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
 
-  document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.collapsible');
-    var instances = M.Collapsible.init(elems, options);
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
   });
+}
 </script>
 <?php include 'footer.php' ?>
