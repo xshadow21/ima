@@ -35,34 +35,36 @@
 			</div>
 		</div>
 
-		<button class="accordion activated">Agroalimentaire</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+		<div class="row">
+			<button id="firstAccordionElement" class="accordion">Agroalimentaire</button>
+			<div class="panel">
+				<p>Lorem ipsonsequat.</p>
+			</div>
 
-		<button class="accordion">Embouteillage</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+			<button class="accordion">Embouteillage</button>
+			<div class="panel">
+				<p>Lorem inim  ea commodo consequat.</p>
+			</div>
 
-		<button class="accordion">Emballage</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+			<button class="accordion">Emballage</button>
+			<div class="panel">
+				<p>Lorem ipsum d minim veniams nisi ut aliquip ex ea commodo consequat.</p>
+			</div>
 
-		<button class="accordion">Mines et carrières</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+			<button class="accordion">Mines et carrières</button>
+			<div class="panel">
+				<p>Lominim veniam, quis nostrud exa commodo consequat.</p>
+			</div>
 
-		<button class="accordion">Recyclage</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+			<button class="accordion">Recyclage</button>
+			<div class="panel">
+				<p>Lorem iis nostrud exercitat commodo consequat.</p>
+			</div>
 
-		<button class="accordion">Produits pharmaceutiques</button>
-		<div class="panel">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<button class="accordion">Produits pharmaceutiques</button>
+			<div class="panel">
+				<p>Loremuis nostrud exercitation ux ea commodo consequat.</p>
+			</div>
 		</div>
     <?php include 'conveyers-menu.php' ?>
 	</section>
@@ -83,5 +85,11 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+
+$("document").ready(function() {
+    setTimeout(function() {
+        $("#firstAccordionElement").trigger('click');
+    },10);
+});
 </script>
 <?php include 'footer.php' ?>
