@@ -1,6 +1,6 @@
 ﻿<?php include 'header.php' ?>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<!---<link type="text/css" rel="stylesheet" href="../libs/materialize/css/materialize.min.css"  media="screen,projection"/>-->
+<link type="text/css" rel="stylesheet" href="../libs/materialize/css/materialize.min.css"  media="screen,projection"/>
 
 
 <div id="wrapper">
@@ -12,7 +12,7 @@
 		</div>
 
 		<ul class="collapsible">
-			<li>
+			<li class="active">
 				<div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
 				<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
 			</li>
@@ -56,6 +56,11 @@
 <script type="text/javascript" src="../libs/materialize/js/materialize.min.js">
 $(document).ready(function(){
     $('.collapsible').collapsible();
+  });
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems, options);
   });
 </script>
 <?php include 'footer.php' ?>
