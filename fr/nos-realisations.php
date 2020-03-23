@@ -87,9 +87,7 @@ for (i = 0; i < acc.length; i++) {
 }
 
 $("document").ready(function() {
-    setTimeout(function() {
-        $("#firstAccordionElement").trigger('click');
-    },10);
+	acc[0].trigger('click');
 });
 </script>
 <?php include 'footer.php' ?>
