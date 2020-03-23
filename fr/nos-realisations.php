@@ -14,7 +14,7 @@
   transition: 0.4s;
 }
 
-.accordion:hover, .active, {
+.active .accordion:hover {
   background-color: #ccc;
 }
 
