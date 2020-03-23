@@ -10,13 +10,18 @@ body { font-family: sans-serif; }
   background: #EEE;
 }
 
-.carousel img {
+.carousel-cell {
+  margin-right: 20px;
+  overflow: hidden;
+}
+
+.carousel-cell img {
   display: block;
   height: 200px;
 }
 
 @media screen and ( min-width: 768px ) {
-  .carousel img {
+  .carousel-cell img {
     height: 400px;
   }
 }
@@ -68,14 +73,28 @@ body { font-family: sans-serif; }
 
 			<button class="accordion">Embouteillage</button>
 			<div class="panel">
-				<div class="carousel"
-					data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg" alt="submerged" />
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" alt="look-out" />
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
+				<div class="carousel">
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" alt="contrail" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" alt="golden hour" />
+					</div>
+					<div class="carousel-cell">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" alt="flight formation" />
+					</div>
 				</div>
 			</div>
 
@@ -119,5 +138,26 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+
+var $carousel = $('.carousel').flickity({
+  imagesLoaded: true,
+  percentPosition: false,
+});
+
+var $imgs = $carousel.find('.carousel-cell img');
+// get transform property
+var docStyle = document.documentElement.style;
+var transformProp = typeof docStyle.transform == 'string' ?
+  'transform' : 'WebkitTransform';
+// get Flickity instance
+var flkty = $carousel.data('flickity');
+
+$carousel.on( 'scroll.flickity', function() {
+  flkty.slides.forEach( function( slide, i ) {
+    var img = $imgs[i];
+    var x = ( slide.target + flkty.x ) * -1/3;
+    img.style[ transformProp ] = 'translateX(' + x  + 'px)';
+  });
+});
 </script>
 <?php include 'footer.php' ?>
