@@ -132,5 +132,7 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+
+$('.panel').slick();
 </script>
 <?php include 'footer.php' ?>
