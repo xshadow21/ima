@@ -50,5 +50,9 @@
 	</section>
 </div>
 
-<script type="text/javascript" src="../libs/materialize/js/materialize.min.js"></script>
+<script type="text/javascript" src="../libs/materialize/js/materialize.min.js">
+$(document).ready(function(){
+    $('.collapsible').collapsible();
+  });
+</script>
 <?php include 'footer.php' ?>
