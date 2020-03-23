@@ -89,7 +89,7 @@
 			</div>
 
 			<button class="accordion">Emballage</button>
-			<div class="panel">
+			<div class="panel main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
 				<div class="gallery-cell">...</div>
 				<div class="gallery-cell">...</div>
 				<div class="gallery-cell">...</div>
