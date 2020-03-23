@@ -90,9 +90,9 @@
 
 			<button class="accordion">Emballage</button>
 			<div class="panel main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
-				<div class="gallery-cell">...</div>
-				<div class="gallery-cell">...</div>
-				<div class="gallery-cell">...</div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
 			</div>
 
 			<button class="accordion">Mines et carrières</button>
