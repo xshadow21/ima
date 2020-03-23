@@ -35,38 +35,34 @@
 			</div>
 		</div>
 
-		<button class="accordion">Section 1</button>
+		<button class="accordion activated">Agroalimentaire</button>
 		<div class="panel">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 
-		<button class="accordion">Section 2</button>
+		<button class="accordion">Embouteillage</button>
 		<div class="panel">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 
-		<div class="row">
-			Agroalimentaire
+		<button class="accordion">Emballage</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 
-		<div class="row">
-			Embouteillage
+		<button class="accordion">Mines et carrières</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 
-		<div class="row">
-			Emballage
+		<button class="accordion">Recyclage</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 
-		<div class="row">
-			Mines et carrières
-		</div>
-
-		<div class="row">
-			Recyclage
-		</div>
-
-		<div class="row">
-			Produits pharmaceutiques
+		<button class="accordion">Produits pharmaceutiques</button>
+		<div class="panel">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
     <?php include 'conveyers-menu.php' ?>
 	</section>
