@@ -37,62 +37,19 @@
 		</div>
 
 		<div class="row">
-			<button id="firstAccordionElement" class="accordion">Agroalimentaire</button>
+			<button class="accordion">Agroalimentaire</button>
 			<div class="panel">
-
-
-
-
-				<!-- Slideshow container -->
-				<div class="slideshow-container">
-
-				<!-- Full-width images with number and caption text -->
-				<div class="mySlides fade">
-				<div class="numbertext">1 / 3</div>
-					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:100%">
-				</div>
-
-				<div class="mySlides fade">
-				<div class="numbertext">2 / 3</div>
-					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%">
-				</div>
-
-				<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
-					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:100%">
-				</div>
-
-				<!-- Next and previous buttons -->
-				<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-				<a class="next" onclick="plusSlides(1)">&#10095;</a>
-				</div>
-				<br>
-
-				<!-- The dots/circles -->
-				<div style="text-align:center">
-				<span class="dot" onclick="currentSlide(1)"></span>
-				<span class="dot" onclick="currentSlide(2)"></span>
-				<span class="dot" onclick="currentSlide(3)"></span>
-				</div>
 			</div>
 
 			<button class="accordion">Embouteillage</button>
 			<div class="panel">
-				<div data-slick='{"slidesToShow": 1, "slidesToScroll": 1}'>
-					<div><h3>1</h3></div>
-					<div><h3>2</h3></div>
-					<div><h3>3</h3></div>
-					<div><h3>4</h3></div>
-					<div><h3>5</h3></div>
-					<div><h3>6</h3></div>
-				</div>
 			</div>
 
 			<button class="accordion">Emballage</button>
 			<div class="panel main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
-				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"></div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:20%"></div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:20%"></div>
+				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:20%"></div>
 			</div>
 
 			<button class="accordion">Mines et carrières</button>
@@ -130,11 +87,5 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
-
-$('.panel').flickity({
-  // options
-  cellAlign: 'left',
-  contain: true
-});
 </script>
 <?php include 'footer.php' ?>
