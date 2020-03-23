@@ -46,7 +46,7 @@
 			</div>
 
 			<button class="accordion">Emballage</button>
-			<div class="panel main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
+			<div class="panel main-carousel" data-flickity='{ "cellAlign": "center"}'>
 				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:20%"></div>
 				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:20%"></div>
 				<div class="gallery-cell"><img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:20%"></div>
