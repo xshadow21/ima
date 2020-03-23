@@ -43,39 +43,37 @@
 
 		<div class="row">
 			<button id="firstAccordionElement" class="accordion">Agroalimentaire</button>
-			<div class="panel container">
-				<div id="myCarousel" class="carousel slide" data-ride="carousel">
-					<!-- Indicators -->
-					<ol class="carousel-indicators">
-						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-						<li data-target="#myCarousel" data-slide-to="1"></li>
-						<li data-target="#myCarousel" data-slide-to="2"></li>
-					</ol>
+			<div class="panel">
+				<!-- Slideshow container -->
+				<div class="slideshow-container">
 
-					<!-- Wrapper for slides -->
-					<div class="carousel-inner">
-						<div class="item active">
-							<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:20%; height:20%;">
-						</div>
+				<!-- Full-width images with number and caption text -->
+				<div class="mySlides fade">
+				<div class="numbertext">1 / 3</div>
+					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:100%">
+				</div>
 
-						<div class="item">
-							<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:20%; height:20%;">
-						</div>
+				<div class="mySlides fade">
+				<div class="numbertext">2 / 3</div>
+					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%">
+				</div>
 
-						<div class="item">
-							<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:20%; height:20%;">
-						</div>
-					</div>
+				<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:100%">
+				</div>
 
-					<!-- Left and right controls -->
-					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-						<span class="glyphicon glyphicon-chevron-left"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="right carousel-control" href="#myCarousel" data-slide="next">
-						<span class="glyphicon glyphicon-chevron-right"></span>
-						<span class="sr-only">Next</span>
-					</a>
+				<!-- Next and previous buttons -->
+				<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+				<a class="next" onclick="plusSlides(1)">&#10095;</a>
+				</div>
+				<br>
+
+				<!-- The dots/circles -->
+				<div style="text-align:center">
+				<span class="dot" onclick="currentSlide(1)"></span>
+				<span class="dot" onclick="currentSlide(2)"></span>
+				<span class="dot" onclick="currentSlide(3)"></span>
 				</div>
 			</div>
 
