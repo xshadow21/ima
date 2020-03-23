@@ -60,9 +60,9 @@ body { font-family: sans-serif; }
 			<div class="panel">
 				<div class="carousel"
 					data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:100%"/>
-					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:100%"/>
-					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:100%"/>
+					<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/>
+					<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/>
+					<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/>
 				</div>
 			</div>
 
