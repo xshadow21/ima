@@ -11,19 +11,22 @@ body { font-family: sans-serif; }
 }
 
 .carousel-cell {
-  margin-right: 20px;
-  overflow: hidden;
-}
-
-.carousel-cell img {
-  display: block;
+  width: 66%;
   height: 200px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
 }
 
-@media screen and ( min-width: 768px ) {
-  .carousel-cell img {
-    height: 400px;
-  }
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  content: counter(carousel-cell);
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
 }
 
 .accordion {
@@ -73,7 +76,7 @@ body { font-family: sans-serif; }
 
 			<button class="accordion">Embouteillage</button>
 			<div class="panel">
-				<div class="carousel">
+				<div class="carousel" data-flickity='{ "wrapAround": true }'>
 					<div class="carousel-cell">
 						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
 					</div>
@@ -138,26 +141,5 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
-
-var $carousel = $('.carousel').flickity({
-  imagesLoaded: true,
-  percentPosition: false,
-});
-
-var $imgs = $carousel.find('.carousel-cell img');
-// get transform property
-var docStyle = document.documentElement.style;
-var transformProp = typeof docStyle.transform == 'string' ?
-  'transform' : 'WebkitTransform';
-// get Flickity instance
-var flkty = $carousel.data('flickity');
-
-$carousel.on( 'scroll.flickity', function() {
-  flkty.slides.forEach( function( slide, i ) {
-    var img = $imgs[i];
-    var x = ( slide.target + flkty.x ) * -1/3;
-    img.style[ transformProp ] = 'translateX(' + x  + 'px)';
-  });
-});
 </script>
 <?php include 'footer.php' ?>
