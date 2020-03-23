@@ -53,15 +53,15 @@
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
 						<div class="item active">
-							<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:50%;">
+							<img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg" style="width:50%; height:50%;">
 						</div>
 
 						<div class="item">
-							<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:50%;">
+							<img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg" style="width:50%; height:50%;">
 						</div>
 
 						<div class="item">
-							<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:50%;">
+							<img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg" style="width:50%; height:50%;">
 						</div>
 					</div>
 
