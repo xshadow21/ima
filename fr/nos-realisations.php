@@ -71,9 +71,9 @@ body { font-family: sans-serif; }
 			<button class="accordion">Agroalimentaire</button>
 			<div class="panel">
 				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
-					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
-					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
-					<div class="carousel-cell"><img src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
 				</div>
 			</div>
 
@@ -81,25 +81,25 @@ body { font-family: sans-serif; }
 			<div class="panel">
 				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" alt="contrail" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" alt="contrail" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" alt="golden hour" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" alt="golden hour" />
 					</div>
 					<div class="carousel-cell">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" alt="flight formation" />
+						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" alt="flight formation" />
 					</div>
 				</div>
 			</div>
