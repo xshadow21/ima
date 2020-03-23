@@ -1,9 +1,5 @@
 ﻿<?php include 'header.php' ?>
-
-<!-- Add the slick-theme.css if you want default styling -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-<!-- Add the slick-theme.css if you want default styling -->
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 
 <style>
 .accordion {
@@ -93,8 +89,10 @@
 			</div>
 
 			<button class="accordion">Emballage</button>
-			<div class="panel">
-				<p>Lorem ipsum d minim veniams nisi ut aliquip ex ea commodo consequat.</p>
+			<div class="panel1">
+				<div class="gallery-cell">...</div>
+				<div class="gallery-cell">...</div>
+				<div class="gallery-cell">...</div>
 			</div>
 
 			<button class="accordion">Mines et carrières</button>
@@ -116,7 +114,7 @@
 	</section>
 </div>
 
-<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
@@ -133,6 +131,10 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-$('.panel').slick();
+$('.panel1').flickity({
+  // options
+  cellAlign: 'left',
+  contain: true
+});
 </script>
 <?php include 'footer.php' ?>
