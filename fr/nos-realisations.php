@@ -24,8 +24,8 @@ body {
   margin: 0 auto;
   max-width: 100%;
 
-  -webkit-transition: opacity 0.4s;
-          transition: opacity 0.4s;
+  -webkit-transition: opacity 0.6s;
+          transition: opacity 0.6s;
 }
 
 /* fade in lazy loaded image */
@@ -80,48 +80,46 @@ body {
 			<button class="accordion">Embouteillage</button>
 			<div class="panel">
 				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" alt="orange tree" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" alt="cat nose" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" alt="contrail" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" alt="golden hour" />
-					</div>
-					<div class="carousel-cell">
-						<img class="carousel-cell-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" alt="flight formation" />
-					</div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
 				</div>
 			</div>
 
 			<button class="accordion">Emballage</button>
 			<div class="panel">
-				sdfsdf
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
+				</div>
 			</div>
 
 			<button class="accordion">Mines et carrières</button>
 			<div class="panel">
-				<p>Lominim veniam, quis nostrud exa commodo consequat.</p>
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
+				</div>
 			</div>
 
 			<button class="accordion">Recyclage</button>
 			<div class="panel">
-				<p>Lorem iis nostrud exercitat commodo consequat.</p>
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
+				</div>
 			</div>
 
 			<button class="accordion">Produits pharmaceutiques</button>
 			<div class="panel">
-				<p>Loremuis nostrud exercitation ux ea commodo consequat.</p>
+				<div class="carousel" data-flickity='{ "lazyLoad": true }'>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur accumulation ERS52 24V .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur a courroie pour recyclage de carton .jpg"/></div>
+					<div class="carousel-cell"><img class="carousel-cell-image" src="../images/realisation/_Convoyeur M525 CDLR avec emballeuse automatique.jpg"/></div>
+				</div>
 			</div>
 		</div>
     <?php include 'conveyers-menu.php' ?>
