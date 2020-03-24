@@ -50,6 +50,18 @@ body {
   background-color: #ccc;
 }
 
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.activated:after {
+  content: "\2212";
+}
+
 .panel {
   padding: 0 18px;
   background-color: white;
@@ -63,7 +75,7 @@ body {
 	<section class="container" style="margin-top: 80px;">
 		<div class="row">
 			<div class="col-md-6">
-				<h2 style="color: #f68b1e;"><strong>Nos réalisations</strong></h2>
+				<h2 style="color: #f68b1e;"><strong>Nos réalisations</strong></h2></br></br>
 			</div>
 		</div>
 
