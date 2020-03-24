@@ -7,14 +7,14 @@
 body { font-family: sans-serif; }
 
 .carousel {
-  background: #FAFAFA;
+
 }
 
 .carousel-cell {
   width: 66%;
   height: 400px;
   margin-right: 10px;
-  background: #333;
+
 }
 
 .carousel-cell-image {
@@ -22,7 +22,7 @@ body { font-family: sans-serif; }
   max-height: 100%;
   margin: 0 auto;
   max-width: 100%;
-  opacity: 1;
+
   -webkit-transition: opacity 0.4s;
           transition: opacity 0.4s;
 }
@@ -30,7 +30,7 @@ body { font-family: sans-serif; }
 /* fade in lazy loaded image */
 .carousel-cell-image.flickity-lazyloaded,
 .carousel-cell-image.flickity-lazyerror {
-  opacity: 0;
+
 }
 
 .accordion {
