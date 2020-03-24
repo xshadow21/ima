@@ -4,17 +4,18 @@
 <style>	
 * { box-sizing: border-box; }
 
-body { font-family: sans-serif; }
+body { 
+	font-family: sans-serif; 
+	font-size: 12px;
+}
 
 .carousel {
-
 }
 
 .carousel-cell {
   width: 66%;
   height: 400px;
   margin-right: 50px;
-
 }
 
 .carousel-cell-image {
@@ -30,7 +31,6 @@ body { font-family: sans-serif; }
 /* fade in lazy loaded image */
 .carousel-cell-image.flickity-lazyloaded,
 .carousel-cell-image.flickity-lazyerror {
-
 }
 
 .accordion {
